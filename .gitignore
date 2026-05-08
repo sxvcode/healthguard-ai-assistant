@@ -1,0 +1,13 @@
+# Security
+.env
+
+# Virtual Environment
+venv/
+__pycache__/
+
+# Legacy Local Database
+chroma_db/
+
+# Backups and zips
+bot.zip
+*.zip
