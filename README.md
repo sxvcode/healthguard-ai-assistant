@@ -91,6 +91,8 @@ insurance_bot/
     └── demo-screenshot.png # Application screenshots for documentation
 ```
 
+> *For comprehensive instructions on provisioning the AWS backend and deploying the cloud infrastructure from scratch, please see the [Deployment Guide](DEPLOYMENT.md).*
+
 ## 💻 Running the Local Fallback Demo
 
 If cloud infrastructure is temporarily unavailable, the fully containerized application can be run locally while still leveraging the remote AWS Bedrock backend.
